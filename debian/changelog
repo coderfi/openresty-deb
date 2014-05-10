@@ -1,3 +1,9 @@
+ngx-openresty (1.5.11.1-1prezi1+syslog) wheezy; urgency=low
+
+  * update to 1.5.11.1
+
+ -- Fairiz Azizi <coderfi@gmail.com>  Fri, 9 May 2014 22:08:00 -0700
+
 ngx-openresty (1.2.8.6-1prezi1+syslog) precise; urgency=low
 
   * update to 1.2.8.6 
